@@ -1,1 +1,1 @@
-# odin-recipies-pc
+This is a VERY basic recipie website. HTML only.
